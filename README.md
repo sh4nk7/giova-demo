@@ -8,7 +8,12 @@ Prototipo cliccabile di **GIOVA**, la piattaforma di controllo di gestione per c
 - Clienti e gruppi, conto economico di ogni commessa
 - Simulazione della tariffa negli appalti a pezzo
 - Budget e previsionale modificabili
-- Assistente "Chiedi a GIOVA" e demo guidata (pulsante in basso a destra)
+- La stessa interfaccia React dell'applicazione GIOVA
+- Assistente "Chiedi a GIOVA" con ricerca locale sui dati fittizi
 
-Tutti i dati sono **di esempio e inventati**: aziende, persone, codici e importi non si riferiscono a organizzazioni reali.
-In questa versione pubblica l'assistente funziona in *Modalità demo*, con risposte preimpostate.
+Clienti, account, commesse, noleggi e importi sono **di esempio e inventati**.
+Il marchio e l'interfaccia sono quelli del progetto GIOVA / La Giovane.
+Accesso dimostrativo automatico; dopo Esci usare **demo / demo**.
+Budget e impostazioni restano nel browser; gli account sono simulati in memoria.
+Da Impostazioni si possono ripristinare i dati della demo.
+Questa pubblicazione sostituisce il precedente prototipo HTML separato.
